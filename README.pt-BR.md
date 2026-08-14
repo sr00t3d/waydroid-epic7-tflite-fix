@@ -2,6 +2,8 @@
 
 Um patch binário cirúrgico que resolve o encerramento inesperado do jogo (**SIGSEGV / Null Pointer Dereference**) no **Epic Seven** (`com.stove.epic7.google`) rodando via **Waydroid** com camada de tradução ARM64 (`libhoudini`).
 
+<img width="900" height="auto" alt="image" src="https://github.com/user-attachments/assets/a65f9706-f510-47b1-901b-4a5abd7d3972" />
+
 ---
 
 ## 🔍 Causa Raiz do Problema
