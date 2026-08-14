@@ -2,6 +2,8 @@
 
 A surgical binary patch that fixes the game-crashing **SIGSEGV / Null Pointer Dereference** in **Epic Seven** (`com.stove.epic7.google`) when running under **Waydroid** with ARM64 translation (`libhoudini`).
 
+<img width="900" height="auto" alt="image" src="https://github.com/user-attachments/assets/a65f9706-f510-47b1-901b-4a5abd7d3972" />
+
 ---
 
 ## 🔍 The Root Cause
